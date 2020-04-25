@@ -1,0 +1,30 @@
+* {
+margin: 0;
+padding: 0;
+}
+body{
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+}
+.banner{
+	height: 1000px;
+	width: 100%;
+	background: url('82239.jpg');
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+.banner.navbar{
+	margin-top: 4%;
+}
+.mybt{
+	margin-top: 600px;
+	margin-left: 45%;
+
+}
+.mdlt{
+
+    color: black;
+    margin-left: 45%;
+
+}
